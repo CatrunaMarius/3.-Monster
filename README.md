@@ -1,3 +1,42 @@
+## 1. itroducere
+React CodeSandbox[https://codesandbox.io/s/new]
+NVM[https://github.com/nvm-sh/nvm]
+Node install[https://nodejs.org/en/]
+React Docs[https://reactjs.org/docs/create-a-new-react-app.html]
+Visual Studio Code[https://code.visualstudio.com/]
+NVM[https://github.com/nvm-sh/nvm#installation-and-update]
+Yarn[https://classic.yarnpkg.com/en/docs/install/#mac-stable]
+Gitbash[https://gitforwindows.org/]
+Create React App docs[https://create-react-app.dev/docs/getting-started/]
+React class component Documentation[https://reactjs.org/docs/react-component.html]
+JSON Placeholder API[https://jsonplaceholder.typicode.com/users]
+What is JSON[https://www.w3schools.com/whatis/whatis_json.asp]
+Great resource on CSS-Grid[https://css-tricks.com/snippets/css/complete-guide-grid/]
+What is CSS-Grid[https://gridbyexample.com/what/]
+React lifecycles diagram[https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/]
+
+
+
+## 2. React key Concepts
+React blessed[https://github.com/Yomguithereal/react-blessed]
+React 360[https://facebook.github.io/react-360/]
+React Desktop[https://reactdesktop.js.org/]
+## 3. React Basics - Referince link 
+
+
+RoboHash[https://robohash.org/1?set=set2]
+React Developer Tools[https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en]
+React component setState documentation[https://reactjs.org/docs/react-component.html#setstate]
+HTML onchange Event[https://www.w3schools.com/jsref/event_onchange.asp]
+HTML Events Overview[https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events]
+React Synthetic Events[https://reactjs.org/docs/events.html]
+ES6 object destructuring[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment#Object_destructuring]
+Event Binding in React[https://reactjs.org/docs/handling-events.html]
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
